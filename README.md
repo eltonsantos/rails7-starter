@@ -16,7 +16,7 @@
 
 ## 1. Generate the project
 
-Get started the project using postgres as database, tailwind configured, esbuild to fast build javascript and skip test and jbuilder for doesn't create the folders and files referring
+Get started the project using postgres as database, tailwind configured, esbuild to fast build javascript and skip test and jbuilder for doesn't create the folders and files referring. This project using `Ruby 3.2.2` and `Rails 7.0.4.3`.
 
 ```sh
 rails new my_app --database=postgresql --skip-jbuilder --skip-test --css=tailwind --javascript=esbuild

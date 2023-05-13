@@ -2,10 +2,10 @@
 # Rails 7 starter default with Devise, RSpec and TailwindCSS
 
 <p align="center">
-  <a href="#-generate-the-project">Generate the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rspec">RSpec</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-devise">Devise</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tailwind">Tailwind</a>&nbsp;&nbsp;&nbsp;
+  <a href="#1-generate-the-project">Generate the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#2-rspec">RSpec</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#3-devise">Devise</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#4-tailwind">Tailwind</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---

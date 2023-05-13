@@ -1,5 +1,5 @@
 
-# Rails 7 starter default with Devise, RSpec and TailwindCSS
+# Rails 7 starter with RSpec, Devise and Tailwind
 
 <p align="center">
   <a href="#1-generate-the-project">Generate the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,6 +13,8 @@
 <br />
 
 ## 1. Generate the project
+
+Get started the project using postgres as database, tailwind configured, esbuild to fast build javascript and skip test and jbuilder for doesn't create the folders and files referring
 
 ```sh
 rails new my_app --database=postgresql --skip-jbuilder --skip-test --css=tailwind --javascript=esbuild

@@ -1,4 +1,16 @@
+
 # Rails 7 starter default with Devise, RSpec and TailwindCSS
+
+<p align="center">
+  <a href="#-generate-the-project">Generate the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rspec">RSpec</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-devise">Devise</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tailwind">Tailwind</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+---
+
+<br />
 
 ## 1. Generate the project
 
@@ -169,7 +181,7 @@ $ bin/rails g controller Pages home
 $ bin/rails generate rspec:request pages
 ```
 
-## 4. Tailwind UI layout for app / auth pages
+## 4. Tailwind
 
 Following the Readme, Tailwind should already be configured and ready to use with the hot reload without having to reload the page, but for that you must start the server using the command
 
@@ -177,7 +189,7 @@ Following the Readme, Tailwind should already be configured and ready to use wit
 
 ##### the `rails s` command no longer needs to be used, as bin/dev is already responsible for using the foreman (to watch the changes) and starting the server 
 
-## 👨🏻‍💻 Author
+## Author
 
 <h3 align="center">
   <img style="border-radius: 50%" src="https://avatars3.githubusercontent.com/u/1292594?s=460&u=0b1bfb0fc81256c59dc33f31ce344231bd5a5286&v=4" width="100px;" alt=""/>

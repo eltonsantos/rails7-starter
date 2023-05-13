@@ -1,5 +1,7 @@
 
-# Rails 7 starter with RSpec, Devise and Tailwind
+<h1 align="center">
+  Rails 7 starter with RSpec, Devise and Tailwind
+</h1>
 
 <p align="center">
   <a href="#1-generate-the-project">Generate the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

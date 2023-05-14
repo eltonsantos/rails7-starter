@@ -187,6 +187,22 @@ $ bin/rails generate rspec:request pages
 
 ## 4. Tailwind
 
+In Procfile.dev keep the file like this:
+
+```
+web: unset PORT && bin/rails server
+js: yarn build --watch
+css: yarn build:css --watch [debug,poll]
+```
+And install this two gems and after run bundle:
+
+```sh
+gem install rails_live_reload
+gem install foreman
+
+bundle
+```
+
 Following the Readme, Tailwind should already be configured and ready to use with the hot reload without having to reload the page, but for that you must start the server using the command
 
 `bin/dev` 
